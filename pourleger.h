@@ -47,7 +47,7 @@
 #include <stdlib.h>
 
 void genereFichierJo(int piste);
-void monmixleger(int piste);
+int monmixleger(int piste);
 void conversionJoWav(int piste);
 
 #endif // _pourleger_h_
